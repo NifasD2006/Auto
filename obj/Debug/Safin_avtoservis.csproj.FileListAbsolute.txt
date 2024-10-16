@@ -46,3 +46,31 @@ C:\Users\Данис\УАТ\3 Курс\Разработка программны�
 C:\Users\Данис\УАТ\3 Курс\Разработка программных модулей Тимашева\Лабораторные работы Тимашева\ЛБ3\Safin_avtoservis\obj\Debug\Safin_avtoservis.csproj.CopyComplete
 C:\Users\Данис\УАТ\3 Курс\Разработка программных модулей Тимашева\Лабораторные работы Тимашева\ЛБ3\Safin_avtoservis\obj\Debug\Safin_avtoservis.exe
 C:\Users\Данис\УАТ\3 Курс\Разработка программных модулей Тимашева\Лабораторные работы Тимашева\ЛБ3\Safin_avtoservis\obj\Debug\Safin_avtoservis.pdb
+C:\Users\Данис\Source\Repos\Auto\bin\Debug\Safin_avtoservis.exe.config
+C:\Users\Данис\Source\Repos\Auto\bin\Debug\Safin_avtoservis.exe
+C:\Users\Данис\Source\Repos\Auto\bin\Debug\Safin_avtoservis.pdb
+C:\Users\Данис\Source\Repos\Auto\bin\Debug\EntityFramework.dll
+C:\Users\Данис\Source\Repos\Auto\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Данис\Source\Repos\Auto\bin\Debug\EntityFramework.xml
+C:\Users\Данис\Source\Repos\Auto\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Данис\Source\Repos\Auto\bin\Debug\ru\EntityFramework.resources.dll
+C:\Users\Данис\Source\Repos\Auto\bin\Debug\ru\EntityFramework.SqlServer.resources.dll
+C:\Users\Данис\Source\Repos\Auto\obj\Debug\Safin_avtoservis.csproj.AssemblyReference.cache
+C:\Users\Данис\Source\Repos\Auto\obj\Debug\AddEditPage.g.cs
+C:\Users\Данис\Source\Repos\Auto\obj\Debug\MainWindow.g.cs
+C:\Users\Данис\Source\Repos\Auto\obj\Debug\ServicePage.g.cs
+C:\Users\Данис\Source\Repos\Auto\obj\Debug\App.g.cs
+C:\Users\Данис\Source\Repos\Auto\obj\Debug\Safin_avtoservis_Content.g.cs
+C:\Users\Данис\Source\Repos\Auto\obj\Debug\Safin_avtoservis_MarkupCompile.cache
+C:\Users\Данис\Source\Repos\Auto\obj\Debug\Safin_avtoservis_MarkupCompile.lref
+C:\Users\Данис\Source\Repos\Auto\obj\Debug\App.baml
+C:\Users\Данис\Source\Repos\Auto\obj\Debug\AddEditPage.baml
+C:\Users\Данис\Source\Repos\Auto\obj\Debug\MainWindow.baml
+C:\Users\Данис\Source\Repos\Auto\obj\Debug\ServicePage.baml
+C:\Users\Данис\Source\Repos\Auto\obj\Debug\Safin_avtoservis.g.resources
+C:\Users\Данис\Source\Repos\Auto\obj\Debug\Safin_avtoservis.Properties.Resources.resources
+C:\Users\Данис\Source\Repos\Auto\obj\Debug\Safin_avtoservis.csproj.GenerateResource.cache
+C:\Users\Данис\Source\Repos\Auto\obj\Debug\Safin_avtoservis.csproj.CoreCompileInputs.cache
+C:\Users\Данис\Source\Repos\Auto\obj\Debug\Safin_avtoservis.csproj.CopyComplete
+C:\Users\Данис\Source\Repos\Auto\obj\Debug\Safin_avtoservis.exe
+C:\Users\Данис\Source\Repos\Auto\obj\Debug\Safin_avtoservis.pdb

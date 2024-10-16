@@ -4,16 +4,16 @@
 winexe
 C#
 .cs
-C:\Users\Данис\УАТ\3 Курс\Разработка программных модулей Тимашева\Лабораторные работы Тимашева\ЛБ3\Safin_avtoservis\obj\Debug\
+C:\Users\Данис\Source\Repos\Auto\obj\Debug\
 Safin_avtoservis
 none
 false
 DEBUG;TRACE
-C:\Users\Данис\УАТ\3 Курс\Разработка программных модулей Тимашева\Лабораторные работы Тимашева\ЛБ3\Safin_avtoservis\App.xaml
+C:\Users\Данис\Source\Repos\Auto\App.xaml
 3-1661540727
 21980720765
 22-1910109730
-19-1028919344
+19-1012880806
 AddEditPage.xaml;MainWindow.xaml;ServicePage.xaml;
 
 False
